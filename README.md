@@ -4,7 +4,7 @@
 
 Source code
 
-dataMhs = {}                                                                                     ## Membuat Dictionary kosong
+'dataMhs = {}                                                                                     ## Membuat Dictionary kosong
 print("==================================================================")
 print("|      PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN DICTIONARY      |")
 print("==================================================================")
@@ -94,4 +94,4 @@ while True:                                                                     
         break                                                                                  ## Mengakhiri LOOPING
 
     else:
-        print("Pilih menu yang tersedia: ")
+        print("Pilih menu yang tersedia: ")'
